@@ -42,7 +42,7 @@ Flechas izquierda y derecha.
 
 ------------------------------------------------------------------------
 
-## 🎮 JUEGO 2: Atrapa el Tesoro
+## JUEGO 2: Atrapa el Tesoro
 
 ### **Objetivo**
 
